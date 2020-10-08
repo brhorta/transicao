@@ -8,6 +8,7 @@
 import UIKit
 
 
+//Protocolo de cadastro
 protocol CadastroEnderecoVCProtocol: class {
     
     func successRegisterAddress(address: Endereco)
